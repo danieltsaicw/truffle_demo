@@ -7,5 +7,5 @@ Node v10.14.2
 ==============
 step1
 ==============
-$curl -sL http://nsolid-deb.nodesource.com/nsolid_setup_4.x | sudo bash -
+$curl -sL http://nsolid-deb.nodesource.com/nsolid_setup_4.x | sudo bash - <br />
 $sudo apt-get -y install nsolid-dubnium nsolid-console
