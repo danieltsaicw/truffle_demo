@@ -1,0 +1,10 @@
+
+
+<image> => <g-cloud> 
+
+data = [amount, time_image, coordinate_image, place_image, image_url] <= <g-cloud>
+
+date + attendence => <blockchain>
+
+reimbursement <= blockchain
+                 blockchain => [address, signal, message](manager)
